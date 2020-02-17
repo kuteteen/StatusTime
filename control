@@ -1,0 +1,9 @@
+Package: com.aohuiliu.timex
+Name: timex
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: AohuiLiu
+Author: AohuiLiu
+Section: Tweaks
